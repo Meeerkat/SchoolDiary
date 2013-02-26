@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Diario di Scuola</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Materia">Materia</string>
+    <string name="InserisciMateria">Inserisci Materia</string>
+    
+    <string-array name="colors">
+        <item>Blue</item>
+        <item>Giallo</item>
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Arancione</item>
+        <item>Azzurro</item>
+        <item>Viola</item>
+    </string-array>
+
+</resources>
